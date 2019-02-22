@@ -1,0 +1,65 @@
+body{
+	background-color:#999999;
+}
+
+
+img {
+	width: 100%;
+	padding: 40px;
+}
+
+
+h1{
+	color: #ff3333;
+	background-color: black;
+    font-family: 'Kenia', cursive;
+    margin: 0;
+}
+
+
+.logo {
+	background-color: black;
+	padding: 10px;
+	text-align: center;
+}
+
+
+.red-bg{
+	background-color: #ff3333;
+	margin-left:10px;
+	margin-right: 10px;
+	padding-bottom: 20px
+}
+
+
+p{
+	font-family: 'Quantico', sans-serif;
+}
+
+
+.black-bg{
+	background-color: black;
+	padding:40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+
+.text-box{
+	background-color: black;
+	color: white;
+
+}
+
+
+ .text-wrap{
+	text-align: center;
+	padding: 30px;
+	font-family: ;
+	color: white;
+}
+
+
+.col-sm-5{
+	text-align: center;
+}
